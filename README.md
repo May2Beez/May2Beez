@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/may2bee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="may2bee" height="30" width="40" /></a>
 </p>
 
 ![](https://dcbadge.vercel.app/api/shield/174929158294470656)
